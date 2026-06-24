@@ -7,7 +7,7 @@ So, the higher the OCR0A value, the wider the pulse, which means more power deli
 
 
 https://www.youtube.com/watch?v=TKDO9VkM164
-https://www.youtube.com/watch?v=KlZwSnbA6XY<img width="1448" height="498" alt="image" src="https://github.com/user-attachments/assets/5e60a33a-2366-4f33-b43b-75659934bf05" />
+https://www.youtube.com/watch?v=KlZwSnbA6XY
 
 
 email: filipmojicevic27@gmail.com
